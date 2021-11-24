@@ -1,6 +1,12 @@
-# Cards
+# Elixir 101 with Cards modules
 
-**TODO: Add description**
+**TODO: Learning with elixir 101 cards basic module & write documentation & testing basic**
+
+```sh
+>iex -S mix
+>mix deps.get
+```
+
 
 ## Installation
 
